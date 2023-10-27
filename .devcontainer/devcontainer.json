@@ -11,5 +11,12 @@
         "Dart-Code.flutter"
       ]
     }
-  }
+},
+"features": {
+	"ghcr.io/devcontainers/features/node:1": {
+		"nodeGypDependencies": true,
+		"version": "latest",
+		"nvmVersion": "latest"
+	}
+}
 }
