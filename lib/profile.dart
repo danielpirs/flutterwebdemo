@@ -153,7 +153,7 @@ class _ProfilePageState extends State<ProfilePage> {
                           alignLabelWithHint: true,
                           label: Center(
                             child: Text(
-                              'Click to add a display name',
+                              'Click to add a display name blabla',
                             ),
                           ),
                         ),
